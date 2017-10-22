@@ -15,7 +15,9 @@ TAGS = [
     'witch',
     'pagan',
     'wicca',
-    'autumn'
+    'autumn',
+    'nu goth',
+    'gothgoth'
 ]
 
 BLACKLIST = set([
