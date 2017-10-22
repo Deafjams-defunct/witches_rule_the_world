@@ -14,7 +14,8 @@ TUMBLR = [
 TAGS = [
     'witch',
     'pagan',
-    'wicca'
+    'wicca',
+    'autumn'
 ]
 
 BLACKLIST = set([
