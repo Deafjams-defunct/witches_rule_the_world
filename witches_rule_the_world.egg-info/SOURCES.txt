@@ -1,0 +1,10 @@
+setup.py
+witches_rule_the_world/__init__.py
+witches_rule_the_world/cron.py
+witches_rule_the_world/rule.py
+witches_rule_the_world/settings.py
+witches_rule_the_world.egg-info/PKG-INFO
+witches_rule_the_world.egg-info/SOURCES.txt
+witches_rule_the_world.egg-info/dependency_links.txt
+witches_rule_the_world.egg-info/requires.txt
+witches_rule_the_world.egg-info/top_level.txt
