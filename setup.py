@@ -5,7 +5,7 @@ import setuptools
 
 setuptools.setup(
     name='witches_rule_the_world',
-    version='1.2.0',
+    version='1.2.1',
     description='A tumblr bot to reblog witchy stuff',
     url='https://github.com/Deafjams/witches_rule_the_world',
     author='Emma Foster',
