@@ -13,9 +13,8 @@ TUMBLR = [
 
 TAGS = [
     'witch',
-    'pagan',
-    'wicca',
-    'autumn',
+    'moody',
+    'noir',
     'nu goth',
     'gothgoth'
 ]
