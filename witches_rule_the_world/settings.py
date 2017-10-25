@@ -20,6 +20,7 @@ TAGS = [
 ]
 
 BLACKLIST = set([
+    "31witches",
     "ass",
     "blood",
     "bloodplay",
@@ -68,6 +69,8 @@ BLACKLIST = set([
     "herm",
     "hermaphrodite",
     "hot transgender",
+    "inktober",
+    "inktober2017",
     "ladyboy",
     "ladyboys",
     "lewd",
@@ -133,6 +136,7 @@ BLACKLIST = set([
     "traps",
     "truscum",
     "webcomic",
+    "witchtober",
     "xdresser"
 ])
 
